@@ -1,40 +1,35 @@
-# Hi, I’m Eric Ndlovu
+# Eric Ndlovu
 
-**Cloud Support Engineer · Automation Builder · AI Product Learner**
+### Cloud Support · Automation · AI Product Work
 
-I turn real-world operational problems into reliable, human-friendly workflows. My background is in second-level enterprise support, Microsoft 365 and identity troubleshooting; I am now building toward AI-enabled product, automation and technical-support work.
+I build reliable, human-friendly workflows for real operational problems. My foundation is second-level enterprise support, Microsoft 365 and identity troubleshooting. I am moving that problem-solving mindset into AI-enabled products, automation and implementation work.
 
-## What I focus on
+> **Open to:** AI product support, implementation, automation and technical customer-success opportunities.
 
-- Building safe, practical automation for everyday business operations
-- Designing user flows and data models for early-stage digital products
-- Exploring agent workflows, tool calling, human-in-the-loop controls and reliable AI delivery
-- Turning unclear user problems into straightforward technical solutions
+## What I bring
 
-## Currently building
+- **Support depth** — structured troubleshooting across Microsoft 365, Entra ID and Active Directory
+- **Workflow thinking** — turning messy processes into clear, safe steps people can actually use
+- **Automation mindset** — practical Python, PowerShell, Power Automate and low-code product building
+- **Trust by design** — visible decisions, sensible guardrails and human handoffs when automation should stop
 
-- **MaWinnie’s OrderOps Agent** — a fail-closed collection-order workflow agent that validates orders, checks preparation feasibility and routes PayShap payments to a human verification step
-- Product workflows for local food ordering and membership-platform ideas
+## Building now
 
-## Learning now
+**MaWinnie’s OrderOps Agent**  
+A fail-closed collection-order workflow agent that validates orders, checks preparation feasibility and routes PayShap payments to human verification.
 
-- Microsoft Azure AI Fundamentals (AI-900)
-- Azure Administrator Associate (AZ-104)
-- Azure Solutions Architect Expert (AZ-305)
+## Learning path
 
-## Technical toolkit
+`AI-900` · `AZ-104` · `AZ-305` · agent workflows · tool calling · reliable AI delivery
 
-`Microsoft 365` · `Microsoft Entra ID` · `Active Directory` · `Azure fundamentals` · `Power Automate` · `Power Apps` · `Python` · `PowerShell` · `Git` · `workflow design` · `low-code product building`
+## Toolkit
 
-## How I work
-
-I like technology that earns trust: clear inputs, visible decisions, sensible guardrails and a human handoff when automation should stop.
+`Microsoft 365` · `Microsoft Entra ID` · `Active Directory` · `Azure` · `Power Automate` · `Power Apps` · `Python` · `PowerShell` · `Git`
 
 ## Find me
 
-- Portfolio: [ericndlovu.myportfolio.com](https://ericndlovu.myportfolio.com)
-- Based in Johannesburg, South Africa
+[Portfolio](https://ericndlovu.myportfolio.com) · Johannesburg, South Africa
 
 ---
 
-*Building useful systems, one practical workflow at a time.*
+*I care about systems that make work clearer, safer and easier to finish.*
